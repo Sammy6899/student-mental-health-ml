@@ -28,5 +28,5 @@ This project uses survey data from university students to explore factors contri
 ## ⚙️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Sammy6899/student-mental-health-ml-DataScience.git](https://github.com/Sammy6899/student-mental-health-ml-DataScience.git)
-   cd student-mental-health-ml-DataScience
+   git clone [https://github.com/Sammy6899/student-mental-health-ml.git](https://github.com/Sammy6899/student-mental-health-ml.git)
+   cd student-mental-health-ml
