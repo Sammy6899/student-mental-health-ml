@@ -1,4 +1,4 @@
-# Student Mental Health Analysis & Depression Classification
+# University Student Mental Health Analysis & Depression Classification
 
 An end-to-end machine learning study analyzing the impact of academic pressure, CGPA, demographic factors, and stress levels on university students' mental health.
 
