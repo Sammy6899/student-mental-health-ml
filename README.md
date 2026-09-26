@@ -30,3 +30,9 @@ This project uses survey data from university students to explore factors contri
    ```bash
    git clone [https://github.com/Sammy6899/student-mental-health-ml.git](https://github.com/Sammy6899/student-mental-health-ml.git)
    cd student-mental-health-ml
+
+## 🤝 Contributing & License 📜
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sammy6899/SocialMedia-mental-health-ml-classification/issues).
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
